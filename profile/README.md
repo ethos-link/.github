@@ -1,16 +1,15 @@
 <!-- ────────────── Reviato: GitHub Profile README ────────────── -->
 
 <p align="center">
-  <img src="assets/reviato-logo.svg" alt="Reviato - AI-powered review management for small businesses" width="200" />
+  <img src="assets/reviato-logo.svg" alt="Reviato - AI-powered review management" width="200" />
 </p>
 
 <h1 align="center">Reviato</h1>
 <p align="center"><em>More stars. Less hassle.</em></p>
 
 <p align="center">
-  <a href="https://www.reviato.com/pages/product">Product Overview</a> ·
+  <a href="https://www.reviato.com">Product Overview</a> ·
   <a href="https://www.reviato.com/pages/pricing">Compare Plans</a> ·
-  <a href="https://www.reviato.com/#signup">Start Free Trial</a>
 </p>
 
 ---
@@ -31,11 +30,19 @@ Reviato turns every review into clear, actionable insights, helping busy small b
 
 | Feature                     | Benefit                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------- |
-| **AI Insight Engine**       | Uncover real drivers behind customer satisfaction and revenue opportunities.               |
-| **360° Unified Dashboard**  | Centralize reviews from Google, Facebook, Booking.com, TripAdvisor, and direct surveys.     |
+| **AI Insight Engine**       | Automated sentiment analysis, aspect-based insights, and AI-generated articles on review patterns. |
+| **360° Unified Dashboard**  | Aggregate reviews from Airbnb, Booking.com, Google Maps, TripAdvisor, and Facebook.     |
 | **Action Automation**       | Effortlessly respond with AI-crafted replies and streamline review requests.               |
 | **Vertical-Aware Playbooks**| Get productive immediately with industry-specific templates for restaurants, hotels, and salons. |
-| **Time-Saving Alerts**      | Daily or weekly insights delivered straight to your inbox.                                  |
+| **Time-Saving Alerts**      | Daily or weekly insights delivered straight to your inbox, plus low-rating notifications. |
+| **Sentiment Analysis**      | Automated classification of positive/negative reviews with trend tracking over time.     |
+| **Aspect-Based Analysis**   | Break down reviews into key aspects like location, service, value, and cleanliness.      |
+| **Review Search & Filtering**| Advanced search across reviews by text, ratings, dates, platforms, and locations.        |
+| **Public Appraisals**       | Customer feedback forms with QR code generation, consent management, and draft saving.  |
+| **Multi-Location Support**  | Manage multiple business locations and properties within a team/account.                 |
+| **Team Collaboration**      | Multi-user teams with role-based permissions, invitations, and membership management.   |
+| **Automated Insight Articles**| Generates data-driven articles analyzing review patterns by region, city, and business type. |
+| **Gastro ROI Calculator**   | Wizard-based tool for calculating ROI in hospitality scenarios with previews and sharing.|
 
 ---
 
