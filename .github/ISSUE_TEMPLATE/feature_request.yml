@@ -1,0 +1,45 @@
+name: Feature request
+description: Suggest an improvement
+title: '[Feature]: '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks — clear problem statements are gold.
+
+        Maintained by [Ethos Link](https://www.ethos-link.com).
+        Also built by the same team: [Reviato](https://www.reviato.com) — *More stars. Less hassle.*
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / use case
+      description: What are you trying to achieve? Why is it hard today?
+      placeholder: 'As a user, I want… because…'
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like to see added or changed?
+      placeholder: 'I propose…'
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      placeholder: 'Other approaches you tried…'
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      placeholder: 'Links, examples, screenshots…'
+    validations:
+      required: false

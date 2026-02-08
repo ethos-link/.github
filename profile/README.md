@@ -1,87 +1,64 @@
-<!-- ────────────── Reviato: GitHub Profile README ────────────── -->
+<!-- ────────────── Ethos Link: GitHub Profile README ────────────── -->
 
 <p align="center">
-  <img src="assets/reviato-logo.svg" alt="Reviato - AI-powered review management" width="200" />
+  <a href="https://www.ethos-link.com/">
+    <strong>Ethos Link</strong>
+  </a>
 </p>
 
-<h1 align="center">Reviato</h1>
-<p align="center"><em>More stars. Less hassle.</em></p>
+<h1 align="center">Software that fits how you actually work</h1>
+<p align="center"><em>Human service, thoughtful AI.</em></p>
 
 <p align="center">
-  <a href="https://www.reviato.com">Product Overview</a> ·
-  <a href="https://www.reviato.com/pages/pricing">Compare Plans</a> ·
+  We build tools for hospitality and service teams who don’t have time for complicated setups.
+  Get clear insights, take action, move on.
+</p>
+
+<p align="center">
+  <a href="https://www.ethos-link.com/about/">About</a> ·
+  <a href="https://www.ethos-link.com/contact/">Contact</a> ·
+  <a href="https://www.reviato.com/">Our product: Reviato</a>
 </p>
 
 ---
 
-## ✨ Why Choose Reviato?
+## ⭐ Reviato — More stars. Less hassle
 
-Reviato turns every review into clear, actionable insights, helping busy small business owners spend less time managing reviews and more time serving customers:
+Reviato helps restaurants, hotels, and local service businesses understand what customers are saying (across platforms like Google Maps and TripAdvisor) and turn that feedback into a clear next step.
 
-- **Save hours, not minutes** – Automate review collection and responses, freeing you from daily review management.
-- **360° Clarity** – See every review trend and customer sentiment from Google, TripAdvisor, and beyond, all in one intuitive dashboard.
-- **Act swiftly** – Instant alerts and tailored reply templates keep you ahead of competitors.
-- **Show your progress** – Easily track rating improvements with week-by-week visual analytics.
-- **Start in two minutes** – Simple setup, intuitive UI, and flexible month-to-month billing.
+**Quick links**
 
----
+- Product: <https://www.reviato.com/>
+- Pricing: <https://www.reviato.com/pages/pricing>
+- Features: <https://www.reviato.com/pages/features>
+- Review analytics (themes, sentiment, trends): <https://www.reviato.com/pages/solutions/review-analytics>
+- Sample insights library: <https://www.reviato.com/insights>
 
-## 🚀 Key Features
+### What Reviato is built for
 
-| Feature                     | Benefit                                                                                  |
-| --------------------------- | ---------------------------------------------------------------------------------------- |
-| **AI Insight Engine**       | Automated sentiment analysis, aspect-based insights, and AI-generated articles on review patterns. |
-| **360° Unified Dashboard**  | Aggregate reviews from Airbnb, Booking.com, Google Maps, TripAdvisor, and Facebook.     |
-| **Action Automation**       | Effortlessly respond with AI-crafted replies and streamline review requests.               |
-| **Vertical-Aware Playbooks**| Get productive immediately with industry-specific templates for restaurants, hotels, and salons. |
-| **Time-Saving Alerts**      | Daily or weekly insights delivered straight to your inbox, plus low-rating notifications. |
-| **Sentiment Analysis**      | Automated classification of positive/negative reviews with trend tracking over time.     |
-| **Aspect-Based Analysis**   | Break down reviews into key aspects like location, service, value, and cleanliness.      |
-| **Review Search & Filtering**| Advanced search across reviews by text, ratings, dates, platforms, and locations.        |
-| **Public Appraisals**       | Customer feedback forms with QR code generation, consent management, and draft saving.  |
-| **Multi-Location Support**  | Manage multiple business locations and properties within a team/account.                 |
-| **Team Collaboration**      | Multi-user teams with role-based permissions, invitations, and membership management.   |
-| **Automated Insight Articles**| Generates data-driven articles analyzing review patterns by region, city, and business type. |
-| **Gastro ROI Calculator**   | Wizard-based tool for calculating ROI in hospitality scenarios with previews and sharing.|
+- **Find what’s repeating**: themes, sentiment, and aspect-level patterns (service, cleanliness, value, and more)
+- **Act faster**: turn scattered reviews into weekly actions your team can actually execute
+- **Track change**: watch rating shifts, topic trends, and real review evidence over time
+- **Stay simple**: minimal setup, clear UX, and workflow-first reporting
 
 ---
 
-## 🗂️ Plans Tailored to Your Business
+## 📚 Free guides & tools (useful even if you don’t use Reviato)
 
-| Plan           | Businesses Included | Ideal For                                                  |
-| -------------- | ------------------- | --------------------------------------------------------- |
-| **Starter**    | 1                   | Independent cafés, salons, restaurants, and B&Bs          |
-| **Growth**     | Up to 5             | Small chains, growing SMBs, and agencies                  |
-| **Enterprise** | Custom              | Multi-site groups, franchises, and reputation managers     |
+- Online reviews guide for SMBs (local discovery + SEO): <https://www.reviato.com/articles/online-reviews-guide>
+- Negative review responses (templates + examples): <https://www.reviato.com/articles/negative-reviews-guide>
+- Ethical ways to request Google reviews (SMS/WhatsApp templates): <https://www.reviato.com/articles/ethical-review-requests>
+- Review revenue calculator (research-based estimate): <https://www.reviato.com/articles/review-revenue-calculator>
+- Browse all articles: <https://www.reviato.com/articles>
 
-<sub>*Enjoy unlimited review aggregation during the promotional period.*</sub>
+---
+
+## 🔧 Open source (developer tools we ship)
+
+- git-markdown — export GitHub pull requests to Markdown for local review: <https://github.com/ethos-link/git-markdown>
 
 ---
 
 <p align="center">
-  <img src="assets/online-reviews-guide.webp" alt="Reviato banner" width="100%" />
-</p>
-
-## 📚 Learn to Master Reviews
-
-Empower your business with our free guides:
-
-- [The Complete Guide to Online Reviews](https://www.reviato.com/articles/online-reviews-guide)
-- [How to Turn Negative Reviews into Business Wins](https://www.reviato.com/articles/negative-reviews-guide)
-- [Ethical Ways to Request Reviews](https://www.reviato.com/articles/ethical-review-requests)
-
----
-
-## 👋 Ready to Boost Your Reviews?
-
-1. **Sign up** – Try it free, no limitations or hidden commitments.
-2. **Connect** – Seamlessly integrate your existing review platforms.
-3. **Grow** – Watch insights and actionable tasks instantly appear.
-
-Need help getting started? Our friendly team is ready to assist! [Contact us](https://www.reviato.com/contacts/new).
-
----
-
-<p align="center">
-  <sub>Built and maintained with care by EthosLink.</sub>
+  <sub>Built and maintained with care by EthosLink LLC.</sub>
 </p>

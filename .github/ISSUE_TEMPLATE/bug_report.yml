@@ -1,0 +1,69 @@
+name: Bug report
+description: Something isn’t working
+title: '[Bug]: '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this.
+
+        Maintained by [Ethos Link](https://www.ethos-link.com).
+        Also built by the same team: [Reviato](https://www.reviato.com) — *More stars. Less hassle.*
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see? Include any error messages.
+      placeholder: 'Describe the issue clearly…'
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: 'Expected behavior…'
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Provide the exact command(s) you ran and anything else needed.
+      placeholder: |
+        1. …
+        2. …
+        3. …
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / output
+      description: Paste the relevant output. (Redact tokens.)
+      render: shell
+
+  - type: input
+    id: version
+    attributes:
+      label: git-markdown version
+      description: Run `git-markdown version`
+      placeholder: '0.1.0'
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Ruby version, GitHub.com vs Enterprise (no secrets)
+      placeholder: |
+        OS:
+        Ruby:
+        Git:
+        GitHub:
+    validations:
+      required: false

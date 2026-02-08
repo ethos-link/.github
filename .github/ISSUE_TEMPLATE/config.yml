@@ -1,0 +1,13 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://github.com/ethos-link/git-markdown#readme
+    about: Read setup, usage examples, and troubleshooting.
+
+  - name: Ethos Link
+    url: https://www.ethos-link.com/
+    about: The team behind this project.
+
+  - name: Reviato — More stars. Less hassle.
+    url: https://www.reviato.com/
+    about: Customer review analytics and reputation workflows.
