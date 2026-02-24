@@ -10,8 +10,8 @@
 <p align="center"><em>Human service, thoughtful AI.</em></p>
 
 <p align="center">
-  We build tools for hospitality and service teams who don’t have time for complicated setups.
-  Get clear insights, take action, move on.
+  We build software for hospitality and service teams that need useful answers fast, not heavy setup.
+  Get the signal, take action, and get back to work.
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 ---
 
-## ⭐ Reviato — More stars. Less hassle
+## ⭐ Reviato — More stars, less friction
 
-Reviato helps restaurants, hotels, and local service businesses understand what customers are saying (across platforms like Google Maps and TripAdvisor) and turn that feedback into a clear next step.
+Reviato helps restaurants, hotels, and local service businesses understand what customers are saying across Google Maps and TripAdvisor, then turn that feedback into clear next steps.
 
 **Quick links**
 
@@ -32,12 +32,14 @@ Reviato helps restaurants, hotels, and local service businesses understand what 
 - Pricing: <https://www.reviato.com/pages/pricing>
 - Features: <https://www.reviato.com/pages/features>
 - Review analytics (themes, sentiment, trends): <https://www.reviato.com/pages/solutions/review-analytics>
-- Sample insights library: <https://www.reviato.com/insights>
+- Insights library: <https://www.reviato.com/insights> — city-level review intelligence across Google Maps and TripAdvisor, with filters by country, region, and category.
+- Google Reviews Calculator: <https://www.reviato.com/tools/google-reviews-calculator> — a free ROI estimate tool that shows how better ratings can affect monthly revenue.
+- Uplift: <https://www.reviato.com/tools/uplift> — practical, download-ready checklists and cadences for operators running weekly review workflows.
 
 ### What Reviato is built for
 
 - **Find what’s repeating**: themes, sentiment, and aspect-level patterns (service, cleanliness, value, and more)
-- **Act faster**: turn scattered reviews into weekly actions your team can actually execute
+- **Act faster**: turn scattered reviews into weekly actions your team can actually run
 - **Track change**: watch rating shifts, topic trends, and real review evidence over time
 - **Stay simple**: minimal setup, clear UX, and workflow-first reporting
 
@@ -53,9 +55,10 @@ Reviato helps restaurants, hotels, and local service businesses understand what 
 
 ---
 
-## 🔧 Open source (developer tools we ship)
+## 🔧 Open source (tools we ship)
 
 - git-markdown — export GitHub pull requests to Markdown for local review: <https://github.com/ethos-link/git-markdown>
+- postgres-backrest — production-ready PostgreSQL image with PgBackRest preinstalled and sensible defaults: <https://github.com/ethos-link/postgres-backrest>
 
 ---
 
