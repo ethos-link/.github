@@ -8,7 +8,8 @@ body:
         Thanks for reporting this.
 
         Built by [Ethos Link](https://www.ethos-link.com), the team behind [Reviato](https://www.reviato.com).
-        Reviato helps hospitality teams capture guest feedback, interpret patterns, and act on clear next steps.
+        Capture. Interpret. Act.
+        Turn guest feedback into clear next steps for your team. Collect private appraisals, spot patterns across reviews, and act before small issues turn into public ones.
 
   - type: textarea
     id: what-happened
@@ -49,8 +50,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: git-markdown version
-      description: Run `git-markdown version`
+      label: Version
+      description: Project, package, or gem version if applicable
       placeholder: '0.1.0'
     validations:
       required: false

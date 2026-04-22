@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Documentation
-    url: https://github.com/ethos-link/git-markdown#readme
-    about: Read setup, usage examples, and troubleshooting.
+  - name: Ethos Link Open Source
+    url: https://github.com/ethos-link
+    about: Browse project repositories and shared documentation.
 
   - name: Ethos Link
     url: https://www.ethos-link.com/

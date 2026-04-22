@@ -19,3 +19,15 @@
 </p>
 
 ---
+
+## Shared GitHub Defaults
+
+This repository holds the shared GitHub templates we reuse across Ethos Link projects.
+
+## Repository Conventions
+
+- Use Conventional Commits for commits and PR titles.
+- Prefer squash merge for library and gem repositories.
+- Treat the PR title as the final squash commit message that lands on `main` or `master`.
+- Keep PR titles ready for changelog generation, because `git-cliff` release notes are derived from tagged Conventional Commits.
+- Keep shared issue and PR templates generic enough to work across multiple repositories.
