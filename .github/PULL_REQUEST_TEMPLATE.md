@@ -13,7 +13,7 @@
 <details>
   <summary>About the maintainers</summary>
 
-Maintained by [Ethos Link](https://www.ethos-link.com).  
-Also built by the same team: [Reviato](https://www.reviato.com) — *More stars. Less hassle.*
+Built by [Ethos Link](https://www.ethos-link.com), the team behind [Reviato](https://www.reviato.com).  
+Reviato helps hospitality teams capture guest feedback, interpret patterns, and act on clear next steps.
 
 </details>

@@ -1,30 +1,33 @@
-<!-- ────────────── Ethos Link: GitHub Profile README ────────────── -->
+<!-- ────────────── Reviato: GitHub Profile README ────────────── -->
 
 <p align="center">
-  <a href="https://www.ethos-link.com/">
-    <strong>Ethos Link</strong>
+  <a href="https://www.reviato.com/">
+    <img src="assets/reviato-logo.svg" alt="Reviato" width="280">
   </a>
 </p>
 
-<h1 align="center">Software that fits how you actually work</h1>
-<p align="center"><em>Human service, thoughtful AI.</em></p>
+<h1 align="center">Capture. Interpret. Act.</h1>
+<p align="center"><em>More stars. Less hassle.</em></p>
 
 <p align="center">
-  We build software for hospitality and service teams that need useful answers fast, not heavy setup.
-  Get the signal, take action, and get back to work.
+  Turn guest feedback into clear next steps for your team.
+  Collect private appraisals, spot patterns across reviews, and act before small issues turn into public ones.
 </p>
 
 <p align="center">
-  <a href="https://www.ethos-link.com/about/">About</a> ·
-  <a href="https://www.ethos-link.com/contact/">Contact</a> ·
-  <a href="https://www.reviato.com/">Our product: Reviato</a>
+  <a href="https://www.reviato.com/">Product</a> ·
+  <a href="https://www.reviato.com/pages/pricing">Pricing</a> ·
+  <a href="https://www.reviato.com/pages/features">Features</a> ·
+  <a href="https://www.reviato.com/insights">Insights</a>
 </p>
 
 ---
 
-## ⭐ Reviato — More stars, less friction
+## ⭐ Reviato
 
-Reviato helps restaurants, hotels, and local service businesses understand what customers are saying across Google Maps and TripAdvisor, then turn that feedback into clear next steps.
+**Capture. Interpret. Act.**
+
+Turn guest feedback into clear next steps for your team. Collect private appraisals, spot patterns across reviews, and act before small issues turn into public ones.
 
 **Quick links**
 
@@ -38,9 +41,9 @@ Reviato helps restaurants, hotels, and local service businesses understand what 
 
 ### What Reviato is built for
 
-- **Find what’s repeating**: themes, sentiment, and aspect-level patterns (service, cleanliness, value, and more)
-- **Act faster**: turn scattered reviews into weekly actions your team can actually run
-- **Track change**: watch rating shifts, topic trends, and real review evidence over time
+- **Collect private appraisals early**: capture guest feedback while context is still fresh
+- **Find what’s repeating**: spot patterns across reviews before they spread
+- **Act faster**: give the team clear next steps before small issues turn public
 - **Stay simple**: minimal setup, clear UX, and workflow-first reporting
 
 ---
@@ -63,5 +66,5 @@ Reviato helps restaurants, hotels, and local service businesses understand what 
 ---
 
 <p align="center">
-  <sub>Built and maintained with care by EthosLink LLC.</sub>
+  <sub>Built and maintained by Ethos Link, the team behind Reviato.</sub>
 </p>
