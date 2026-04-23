@@ -1,8 +1,7 @@
-## Summary
-
-PR titles should use the final Conventional Commit message for squash merge, for example `feat: add single-file sitemap mode` or `fix: expose engine assets`.
-
-## Changes
+<!--
+PR titles should use the final Conventional Commit message for squash merge,
+for example `feat: add single-file sitemap mode` or `fix: expose engine assets`.
+-->
 
 ## How to test
 
