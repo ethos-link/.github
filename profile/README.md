@@ -37,7 +37,8 @@ Turn guest feedback into clear next steps for your team. Collect private apprais
 - Review analytics (themes, sentiment, trends): <https://www.reviato.com/pages/solutions/review-analytics>
 - Insights library: <https://www.reviato.com/insights> — city-level review intelligence across Google Maps and TripAdvisor, with filters by country, region, and category.
 - Google Reviews Calculator: <https://www.reviato.com/tools/google-reviews-calculator> — a free ROI estimate tool that shows how better ratings can affect monthly revenue.
-- Uplift: <https://www.reviato.com/tools/uplift> — practical, download-ready checklists and cadences for operators running weekly review workflows.
+- Review Revenue Calculator: <https://www.reviato.com/tools/uplift> — a
+  planning tool for estimating how better ratings could affect monthly revenue.
 
 ### What Reviato is built for
 
