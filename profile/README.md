@@ -1,71 +1,61 @@
-<!-- ────────────── Reviato: GitHub Profile README ────────────── -->
+# Ethos Link
 
-<p align="center">
-  <a href="https://www.reviato.com/">
-    <img src="assets/reviato-logo.svg" alt="Reviato" width="280">
-  </a>
-</p>
+[Ethos Link](https://www.ethos-link.com) is a software company founded by
+[Paulo Fidalgo](https://www.fidalgo.pt). We build business software and publish
+open-source tools for Ruby, Rails and developer workflows.
 
-<h1 align="center">Capture. Interpret. Act.</h1>
-<p align="center"><em>More stars. Less hassle.</em></p>
+[Company](https://www.ethos-link.com/about) ·
+[Journal](https://www.ethos-link.com/articles) ·
+[Open source](https://www.ethos-link.com/opensource)
 
-<p align="center">
-  Turn guest feedback into clear next steps for your team.
-  Collect private appraisals, spot patterns across reviews, and act before small issues turn into public ones.
-</p>
+## Products
 
-<p align="center">
-  <a href="https://www.reviato.com/">Product</a> ·
-  <a href="https://www.reviato.com/pages/pricing">Pricing</a> ·
-  <a href="https://www.reviato.com/pages/features">Features</a> ·
-  <a href="https://www.reviato.com/insights">Insights</a>
-</p>
+### Reviato
 
----
+[Reviato](https://www.reviato.com) helps businesses collect private customer
+feedback and understand recurring themes in public reviews.
 
-## ⭐ Reviato
+[Articles](https://www.reviato.com/articles) ·
+[Review insights](https://www.reviato.com/insights) ·
+[Tools](https://www.reviato.com/tools)
 
-**Capture. Interpret. Act.**
+Start reading:
 
-Turn guest feedback into clear next steps for your team. Collect private appraisals, spot patterns across reviews, and act before small issues turn into public ones.
+- [Small business review management guide](https://www.reviato.com/articles/online-reviews-guide)
+- [How to respond to negative reviews](https://www.reviato.com/articles/negative-reviews-guide)
 
-**Quick links**
+### Nuntio
 
-- Product: <https://www.reviato.com/>
-- Pricing: <https://www.reviato.com/pages/pricing>
-- Features: <https://www.reviato.com/pages/features>
-- Review analytics (themes, sentiment, trends): <https://www.reviato.com/pages/solutions/review-analytics>
-- Insights library: <https://www.reviato.com/insights> — city-level review intelligence across Google Maps and TripAdvisor, with filters by country, region, and category.
-- Google Reviews Calculator: <https://www.reviato.com/tools/google-reviews-calculator> — a free ROI estimate tool that shows how better ratings can affect monthly revenue.
-- Review Revenue Calculator: <https://www.reviato.com/tools/uplift> — a
-  planning tool for estimating how better ratings could affect monthly revenue.
+[Nuntio](https://www.nuntiohq.com) gives teams a workspace to prepare, review
+and schedule social posts, then check their publishing outcomes.
 
-### What Reviato is built for
+Explore the [guides](https://www.nuntiohq.com/guides), including:
 
-- **Collect private appraisals early**: capture guest feedback while context is still fresh
-- **Find what’s repeating**: spot patterns across reviews before they spread
-- **Act faster**: give the team clear next steps before small issues turn public
-- **Stay simple**: minimal setup, clear UX, and workflow-first reporting
+- [How to schedule Instagram posts with Nuntio](https://www.nuntiohq.com/guides/how-to-schedule-instagram-posts)
+- [What to post when you run a local business](https://www.nuntiohq.com/guides/what-to-post)
 
----
+### EthosPlaces
 
-## 📚 Free guides & tools (useful even if you don’t use Reviato)
+[EthosPlaces](https://www.ethos.place) helps people find places to eat, stay and
+visit, with opening hours, contact details and directions. Businesses can claim
+their pages and keep those details up to date.
 
-- Online reviews guide for SMBs (local discovery + SEO): <https://www.reviato.com/articles/online-reviews-guide>
-- Negative review responses (templates + examples): <https://www.reviato.com/articles/negative-reviews-guide>
-- Ethical ways to request Google reviews (SMS/WhatsApp templates): <https://www.reviato.com/articles/ethical-review-requests>
-- Review revenue calculator (research-based estimate): <https://www.reviato.com/articles/review-revenue-calculator>
-- Browse all articles: <https://www.reviato.com/articles>
+## Open source
 
----
+We publish engineering tools alongside our products. Each repository keeps its
+technical setup, examples and configuration close to the code; longer guides
+live in its `docs/` directory where needed.
 
-## 🔧 Open source (tools we ship)
+| Project | What it does |
+| --- | --- |
+| [Indexmap](https://github.com/ethos-link/indexmap) | Generates sitemap indexes and child sitemaps from explicit Ruby definitions. |
+| [Crawlscope](https://github.com/ethos-link/crawlscope) | Audits sitemap URLs for metadata, JSON-LD, indexability and internal links. |
+| [git-markdown](https://github.com/ethos-link/git-markdown) | Exports GitHub pull requests and review discussions to Markdown. |
+| [Cloudflare Tunnel](https://github.com/ethos-link/cloudflare-tunnel) | Supervises a host-installed cloudflared connector alongside Rails development. |
+| [Ethos Gemkit](https://github.com/ethos-link/ethos-gemkit) | Shares linting, package checks and release tooling across Ruby gems. |
+| [RubyLLM Codex](https://github.com/ethos-link/ruby_llm-codex) | Uses the local Codex CLI as a RubyLLM provider for text and structured output. |
+| [postgres-backrest](https://github.com/ethos-link/postgres-backrest) | Provides a PostgreSQL image with PgBackRest preinstalled. |
 
-- git-markdown — export GitHub pull requests to Markdown for local review: <https://github.com/ethos-link/git-markdown>
-- postgres-backrest — production-ready PostgreSQL image with PgBackRest preinstalled and sensible defaults: <https://github.com/ethos-link/postgres-backrest>
-
----
-
-<p align="center">
-  <sub>Built and maintained by Ethos Link, the team behind Reviato.</sub>
-</p>
+Browse the [project guides on Ethos Link](https://www.ethos-link.com/opensource)
+for overviews and resources, or read the source and versioned documentation in
+the repositories above.

@@ -1,28 +1,18 @@
-<p align="center">
-  <a href="https://www.ethos-link.com/">
-    <strong>Ethos Link</strong>
-  </a>
-</p>
-
-<h1 align="center">Software that fits how you actually work</h1>
-<p align="center"><em>Human service, thoughtful AI.</em></p>
-
-<p align="center">
-  We build software for hospitality and service teams that need useful answers fast, not heavy setup.
-  Get the signal, take action, and get back to work.
-</p>
-
-<p align="center">
-  <a href="https://www.ethos-link.com/about/">About</a> ·
-  <a href="https://www.ethos-link.com/contact/">Contact</a> ·
-  <a href="https://www.reviato.com/">Our product: Reviato</a>
-</p>
-
----
+# Ethos Link GitHub defaults
 
 ## Shared GitHub Defaults
 
 This repository holds the shared GitHub templates we reuse across Ethos Link projects.
+
+## Organisation profile
+
+The public [Ethos Link](https://www.ethos-link.com) organisation profile lives in
+[profile/README.md](profile/README.md). It introduces the company and founder,
+links to Reviato, Nuntio and EthosPlaces, and lists our public engineering tools.
+
+Keep product names, descriptions and article links aligned with the product
+sites. Nuntio's articles are published under `/guides`; EthosPlaces does not yet
+have an articles section.
 
 ## Repository Conventions
 
